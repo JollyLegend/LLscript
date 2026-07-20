@@ -1,7 +1,7 @@
 Title: LAKERS LODGE
 Credit: Written by
 Author: Ishaan Jolly
-Draft date: 20 July 2026
+Draft date: 21 July 2026
 Revision: Scene Rehearsal Script v10
 
 .SCENE 01 — THE HOUSE GOES QUIET [MOVEMENT]
@@ -31,7 +31,7 @@ JANE
 I'm not reading it in front of the house.
 
 LEON
-It's a listing, Jane. It's not going to --
+It's a house, Jane. It's not going to --
 
 JANE
 It'll hear me.
@@ -59,23 +59,13 @@ LEON
 And they said something completely reasonable that makes this fine.
 
 JANE
-"No one will enter while you are there."
-
-She lowers the phone.
-
-JANE
-That is not the same as "you'll be alone."
+"No one will enter while you are there." That is not the same as "you'll be alone."
 
 LEON
-You've read it so many times you've turned it into poetry.
+You've read it so many times you've made it suspicious.
 
 JANE
-Somebody has to.
-
-She sets the phone in her lap.
-
-JANE
-Tell me the real reason we're doing this.
+Somebody has to. Tell me the real reason we're doing this.
 
 LEON
 Five thousand pounds.
@@ -84,7 +74,7 @@ JANE
 Leon.
 
 LEON
-Five thousand is the deposit. First month, last month, agency fee. The flat above the florist. The one with the actual hallway. The one you walked through twice and didn't say a word about.
+Five thousand is the deposit. First month, last month, agency fee. The flat above the florist. The one with the actual hallway. The one you walked through twice and didn't say a word about, which for you is a standing ovation.
 
 JANE
 It had a box room.
@@ -165,7 +155,7 @@ LEON
 Renovation.
 
 JANE
-You don't hem a dust sheet.
+Strange.
 
 .SCENE 06 — THIRTEEN STEPS [DIALOGUE]
 
@@ -255,77 +245,70 @@ Opposite it, the FAMILY PORTRAIT.
 
 Four people and a small cream Pomeranian in a garden.
 
-LEON
-Imagine being this family. Imagine the dog having a better life than us.
-
-He keeps looking at the portrait.
+JANE
+There are a lot of mirrors in thishouse.
 
 LEON
-That dog has a financial adviser. That dog has opinions about its portfolio. That dog has never once checked its bank balance and felt personally attacked.
+Rich people love mirrors. Self obsession is expensive.
+
+JANE
+Rich people have one. Maybe two. This is a house that wants to know where everything is at all times.
+
+LEON
+Imagine being this family. Imagine the dog having a better life than us. That dog has a financial advisor. That dog has opinions about its portfolio—
 
 JANE
 Leon.
 
 LEON
-I swear I've seen it before.
+I swear I’ve seen that dog before. Same judgmental face. Like it’s disappointed in me personally.
 
 JANE
-The dog?
+You’ve never had a dog.
 
 LEON
-Same judgemental face. Like it's disappointed in me personally.
+Must’ve been a past life.
 
 JANE
-You've never had a dog.
+Who pays strangers five thousand pounds to sleep in their house?
 
 LEON
-Past life.
-
-A throwaway line. He grins, but the portrait has unsettled him.
-
-At the far end, the gym door stands ajar.
+People with more money than time.
 
 JANE
-There are too many mirrors.
+It’s a “keep your mouth shut” amount.
 
 LEON
-Rich people like checking they're still rich.
+Or it’s a “we’re very rich and we needed someone reliable on short notice” amount.
 
 JANE
-Then why is the little one covered? Still the same.
+You ever get the feeling you’re being set up for something?
+
+Leon crosses to her, hands finding her hips.
+
+LEON
+Every day since I met you.
+
+She lets her forehead fall against his chest — and stays
+there a beat longer than the joke requires. Listening.
+
+JANE
+Still the same.
 
 LEON
 What is?
 
 JANE
-Your heartbeat. It speeds up when you pretend to be calm.
+Your heartbeat. It speeds up when you pretend to be calm. I used to listen to it when I couldn’t sleep, first year we lived together. You never knew.
 
 LEON
-I am calm.
-
-JANE
-No, you're not.
-
-LEON
-You used to do that when you couldn't sleep.
-
-JANE
-You knew?
-
-LEON
-I liked that you were listening. Felt like I was keeping you warm without doing anything.
-
-Hold on them.
+I knew. I liked that you were listening. Felt like I was keeping you warm even when I was asleep.
 
 .SCENE 09 — CAMERAS AND CATASTROPHES [DIALOGUE]
 
 Location: Interior — Guest bedroom, night.
 
-A converted downstairs bedroom.
-
-Double bed.
-
-Leon drops the duffel and falls backwards onto the bed, star-shaped.
+Leon falls backwards onto the bed, star-shaped.
 
 LEON
 I have never been this horizontal.
@@ -348,28 +331,28 @@ JANE
 Five thousand pounds. One night.
 
 LEON
-Come here. Worst-case scenario. Go. Full catastrophe. I'll tell you why each one's wrong.
+Pocket change to these people.
+
+JANE
+What’s the catch?
+
+LEON
+No catch. Listing was urgent. Reliable couple, short notice. Come here. Worst-case scenario. Go. Full catastrophe. I'll tell you why each one's wrong.
 
 JANE
 Hidden cameras. We're a reality show.
 
 LEON
-Covered. I swept the room. Smoke detector's clean, no pinholes in the mirror, no lens in the light fitting. I'm an actor, not an exhibitionist -- there's a meaningful distinction and a small overlap.
+Don't worry, I look excellent on camera, I am an actor after all.
 
 JANE
 You've had two walk-ons and a student film.
 
 LEON
-A featured walk-on. I had a line.
+A featured walkon. I had a line. “The briefcase is in the car.” It was very well received.
 
 JANE
-Was it well received?
-
-LEON
-Extremely.
-
-JANE
-By whom?
+By who?
 
 LEON
 By me. And the director. He said "good," very clearly. Possibly to someone else. But the room heard it. Next.
@@ -431,7 +414,7 @@ JANE
 He's a violent raccoon.
 
 LEON
-People contain multitudes.
+He's a flawed individual.
 
 JANE
 (sincerely)
@@ -450,16 +433,16 @@ JANE
 It's not the size.
 
 LEON
-I know. But it's one night. In the morning we collect five grand, drive home, go back to the flat above the florist and, for once, stop waiting for the other shoe to drop.
+I know. But listen. It's one night. We raid their fridge, we have sex in this bed, and in the morning we collect five grand, drive home, and stop waiting for the other shoe to drop.
 
 JANE
-There's always another shoe.
+There's always another shoe. That's the thing about shoes.
 
 LEON
 Yeah?
 
 JANE
-That's the thing about shoes. They come in pairs.
+They come in pairs.
 
 LEON
 That's my girl. Paranoid and vindictive. I love you.
@@ -522,21 +505,14 @@ I'm the victim. I can identify you.
 JANE
 Not from the shallow grave.
 
-Jane reaches up and straightens the collar of his jumper where it has folded beneath itself.
-
-JANE
-There.
-
 LEON
-Thank you. You're really beautiful.
+You're really beautiful.
 
 JANE
 You're changing the subject.
 
 LEON
 I'm changing the subject.
-
-Holding his hand exactly where it is.
 
 JANE
 What if I wanted to keep talking about the petrol station?
@@ -646,50 +622,51 @@ JANE
 That raccoon pension scheme?
 
 LEON
-How different things could've gone. If that train had been on time.
+How different things could’ve gone. If that train had been on time.
 
 JANE
-It wasn't the train. My shoelace snapped at the top of the stairs. Missed the 8:14.
+It wasn’t the train. It was my shoelace. Snapped at the top of the stairs. Missed the 8:14.
 
 LEON
-And if it hadn't?
+What if you’d caught it?
 
 JANE
-I'd have been a mile away before you looked up.
+I’d have been a mile away before you ever looked up.
 
 LEON
-Forty pence of cotton holding our entire lives together.
+A shoelace.
 
 JANE
-Somewhere there's a version of me who caught it.
+Forty pence of cotton. That’s the total amount of material holding our entire lives together.
 
 LEON
-She's miserable.
+And if it hadn’t snapped. Somewhere out there, there’s a you who caught the 8:14.
 
 JANE
-Better commute. Pension. Reads on the train.
+She’s doing fine. Better commute. Never met you. Reads on the train. Probably has a pension.
 
 LEON
-Every morning at 8:14 she feels like she's forgotten something and checks her pockets.
+She’s miserable. She doesn’t know why. Every morning at 8:14 she feels like she’s forgotten something, and checks her pockets.
 
 JANE
 And you?
 
 LEON
-Still on the platform. Waiting for something to happen.
+The me that never looked up? Still on that platform. Still waiting for something to happen. Forty pence of cotton.
 
 JANE
 Forty pence of cotton.
 
 LEON
-I'm framing a shoelace.
+I’m going to frame a shoelace.
 
 JANE
-You're not framing a shoelace.
+You’re not framing a shoelace.
 
-She closes her eyes.
+LEON
+Little brass plaque and all.
 
-The high wide holds after the conversation ends.
+A knock sounds from the walls.
 
 JANE
 Tell me that was the boiler.
@@ -701,7 +678,7 @@ JANE
 You don't know where the boiler is.
 
 LEON
-I continue to have a strong sense of it. I'll go be brave at a pipe.
+I continue to have a strong sense of boiler. I'll go be brave at a pipe.
 
 JANE
 Let's both go.
@@ -730,13 +707,7 @@ The dark gym beyond. The portrait.
 
 Location: Interior — Kitchen, continuous.
 
-At night, the window over the sink has become a black mirror.
-
-Leon and Jane enter its reflection before they enter the room itself.
-
-The UTILITY ROOM door.
-
-Then the utility door answers.
+The UTILITY ROOM door. LEON knocks. The utility door answers.
 
 JANE
 Pipes don't take turns.
@@ -767,7 +738,7 @@ The screen is black.
 
 She sees her own reflection.
 
-The reflection gives her a slow, delighted smile.
+The reflection smiles.
 
 Before she can touch the power button, her breath catches.
 
@@ -793,21 +764,24 @@ He has not looked at the covered mirror yet.
 
 Location: Interior — Understairs WC, continuous.
 
-Not a kiss.
+Not a kiss. Leon breathes for Jane.
 
 The DRONE skips one beat.
 
 Jane drags in a rough breath of her own.
 
+JANE
+I’m— I’m okay—
+
 LEON
-That's it. Again. You don't have to be okay. Just breathe.
+You don’t have to be okay yet. You just have to breathe.
 
 Two people on the floor of the only room with no visible reflection.
 
 Jane looks up at the covered mirror.
 
 JANE
-It smiled before I did. How did you know to bring me here?
+My reflection before I did. How did you know to bring me here?
 
 LEON
 I didn't.
@@ -838,16 +812,16 @@ JANE
 Anything that reflects us. We'd have to cover the house.
 
 LEON
-Then we break the one by the door and get out.
+Then we just leave.
+
+Leon reaches the front door and turns the lock. The door does not budge.
+
+In the black glass, Leon's reflection is already standing with its arm lowered.
 
 JANE
-And make a hundred more.
+Don't look into the glass.
 
-He looks at the glass in the frame.
-
-The hallway light dies.
-
-Every window deepens into a mirror.
+The lights die.
 
 LEON
 It heard us.
@@ -858,15 +832,6 @@ Or it was waiting for us to understand.
 .SCENE 18 — THE FRONT DOOR [MOVEMENT]
 
 Location: Interior — Front entryway, continuous.
-
-Leon reaches the front door and turns the key.
-
-In the black glass, Leon's reflection is already standing with its arm lowered.
-
-JANE
-That's what it did to me.
-
-He does not look at the glass again.
 
 LEON
 Two-way circuit. Hall light will have another switch upstairs.
@@ -883,12 +848,12 @@ Location: Interior — Staircase, continuous.
 
 Leon and Jane enter it and disappear from sight.
 
-LEON (O.S.)
+LEON
 One... two... three... Four... five... six...
 
 Hold the empty frame.
 
-LEON (O.S.)
+LEON
 Ten... eleven... twelve... thirteen... Fourteen.
 
 Warm light blooms down the stairwell.
@@ -919,6 +884,8 @@ Location: Interior — Staircase and hallway, continuous.
 They descend holding hands.
 
 A FLASH BLACKOUT.
+
+Jane's hand is still there, Leon is missing.
 
 .SCENE 22 — THE MIMIC [MOVEMENT]
 
@@ -979,8 +946,6 @@ Trying.
 
 JANE
 It's you.
-
-She pulls him into the light.
 
 LEON
 Your hands are freezing.
@@ -1117,7 +1082,7 @@ LEON
 Cheap pizza. Something terrible.
 
 JANE
-Saturday we go back to the flat above the florist. You stand in the hallway with your arms out like you're measuring it for a future.
+Saturday we'll go back to the flat above the florist. You stand in the hallway with your arms out like you're measuring it for a future.
 
 Leon closes his eyes for one second and puts the image somewhere safe.
 
@@ -1167,7 +1132,7 @@ The drone rises, searching.
 
 He gives her the next breath.
 
-One breath.
+Breath sequence, LEON and JANE are surrounded by footsteps and creepy noises closing in on them.
 
 An INHUMAN SHRIEK tears through the house, garden and ground at once.
 
@@ -1194,23 +1159,7 @@ RELEASE NOTICE: £2,500,000
 CONDITION SATISFIED: VACANT POSSESSION CONFIRMED
 NAMED BENEFICIARY: ELIAS LAKER
 
-He stands by the open front door in the clean morning light, waiting for her.
-
-He has not seen the screen.
-
-Jane turns the phone FACE-DOWN once more.
-
-He takes her hand.
-
-.SCENE 28 — LEAVING LAKERS LODGE [MOVEMENT]
-
-Location: Exterior — End of the drive, dawn.
-
-LAKERS LODGE
-
-The car leaves frame.
-
-.SCENE 29 — ELIAS [MOVEMENT]
+.SCENE 28 — ELIAS [MOVEMENT]
 
 Location: Interior — Sitting room, family portrait, dawn.
 
