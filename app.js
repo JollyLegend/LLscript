@@ -4,7 +4,8 @@ const scriptEl = document.querySelector("#script");
 const scriptTitleEl = document.querySelector("#script-title");
 const scriptMetaEl = document.querySelector("#script-meta");
 const sceneSelect = document.querySelector("#scene-select");
-const sceneList = document.querySelector("#scene-list");
+const prevSceneButton = document.querySelector("#prev-scene");
+const nextSceneButton = document.querySelector("#next-scene");
 const fontSize = document.querySelector("#font-size");
 const fontFamily = document.querySelector("#font-family");
 const themeToggle = document.querySelector("#theme-toggle");
@@ -41,7 +42,7 @@ function slugify(value, index) {
 }
 
 function isSceneHeading(line) {
-  return /^(INT\.|EXT\.|INT\.\/EXT\.)/.test(line);
+  return /^\.(?:SCENE\s+\d+)/i.test(line) || /^(INT\.|EXT\.|INT\.\/EXT\.)/.test(line);
 }
 
 function isCharacterCue(line) {
@@ -163,7 +164,6 @@ function renderScript(source) {
   currentScenes = scenes;
 
   const title = metadata.title || "Lakers Lodge";
-  const author = metadata.author || "";
   const revision = metadata.revision || "";
   const date = metadata["draft date"] || "";
 
@@ -171,18 +171,10 @@ function renderScript(source) {
   scriptMetaEl.textContent = [revision, date].filter(Boolean).join(" • ") || "Rehearsal script";
   document.title = `${title} — Rehearsal Script`;
 
-  const header = `
-    <header class="script-header">
-      <h2>${escapeHtml(title)}</h2>
-      ${author ? `<p>Written by ${escapeHtml(author)}</p>` : ""}
-      ${revision || date ? `<p>${escapeHtml([revision, date].filter(Boolean).join(" • "))}</p>` : ""}
-    </header>
-  `;
-
   const body = blocks.map((block) => {
     if (block.type === "scene") {
       return `<h2 class="scene-heading" id="${block.id}" data-scene="${block.number}">
-        ${escapeHtml(block.text)}
+        ${escapeHtml(block.text.replace(/^\./, ""))}
       </h2>`;
     }
 
@@ -210,7 +202,7 @@ function renderScript(source) {
     return `<p class="action">${escapeHtml(block.text)}</p>`;
   }).join("");
 
-  scriptEl.innerHTML = header + body;
+  scriptEl.innerHTML = body;
   populateSceneNavigation(scenes);
   applyCharacterFocus();
   observeScenes();
@@ -219,14 +211,19 @@ function renderScript(source) {
 function populateSceneNavigation(scenes) {
   sceneSelect.innerHTML = `<option value="">Choose a scene…</option>` +
     scenes.map((scene) => (
-      `<option value="${scene.id}">${scene.number}. ${escapeHtml(scene.title)}</option>`
+      `<option value="${scene.id}">${scene.number}. ${escapeHtml(scene.title.replace(/^\./, ""))}</option>`
     )).join("");
+}
 
-  sceneList.innerHTML = scenes.map((scene) => (
-    `<a class="scene-link" href="#${scene.id}" data-scene-id="${scene.id}">
-      ${scene.number}. ${escapeHtml(scene.title)}
-    </a>`
-  )).join("");
+function moveScene(offset) {
+  if (!currentScenes.length) return;
+
+  const currentId = sceneSelect.value;
+  let index = currentScenes.findIndex((scene) => scene.id === currentId);
+
+  if (index < 0) index = offset > 0 ? -1 : currentScenes.length;
+  const nextIndex = Math.min(currentScenes.length - 1, Math.max(0, index + offset));
+  jumpToScene(currentScenes[nextIndex].id);
 }
 
 function jumpToScene(id) {
@@ -238,7 +235,7 @@ function jumpToScene(id) {
 function setTheme(theme) {
   document.documentElement.dataset.theme = theme;
   localStorage.setItem("ll-theme", theme);
-  themeToggle.textContent = theme === "dark" ? "Light mode" : "Dark mode";
+  themeToggle.textContent = theme === "dark" ? "Light" : "Dark";
 }
 
 function setDirectionsHidden(hidden) {
@@ -253,7 +250,6 @@ function setFontSize(value) {
   fontSize.value = value;
   localStorage.setItem("ll-font-size", value);
 }
-
 
 function setFontFamily(value) {
   const fontStacks = {
@@ -298,11 +294,10 @@ function openControls() {
 function closeControls() {
   controlsPanel.classList.remove("open");
   menuToggle.setAttribute("aria-expanded", "false");
-  menuToggle.textContent = "Controls";
+  menuToggle.textContent = "Options";
 }
 
 function observeScenes() {
-  const links = [...document.querySelectorAll(".scene-link")];
   const headings = [...document.querySelectorAll(".scene-heading")];
   if (!headings.length) return;
 
@@ -312,10 +307,6 @@ function observeScenes() {
       .sort((a, b) => a.boundingClientRect.top - b.boundingClientRect.top)[0];
 
     if (!visible) return;
-
-    links.forEach((link) => {
-      link.classList.toggle("active", link.dataset.sceneId === visible.target.id);
-    });
     sceneSelect.value = visible.target.id;
   }, {
     rootMargin: "-18% 0px -72% 0px",
@@ -343,6 +334,8 @@ async function loadScript() {
 }
 
 sceneSelect.addEventListener("change", (event) => jumpToScene(event.target.value));
+prevSceneButton.addEventListener("click", () => moveScene(-1));
+nextSceneButton.addEventListener("click", () => moveScene(1));
 
 themeToggle.addEventListener("click", () => {
   const current = document.documentElement.dataset.theme || "light";
@@ -368,8 +361,6 @@ clearFocusButton.addEventListener("click", () => setCharacterFocus(null));
 menuToggle.addEventListener("click", () => {
   controlsPanel.classList.contains("open") ? closeControls() : openControls();
 });
-
-
 
 topButton.addEventListener("click", () => window.scrollTo({ top: 0, behavior: "smooth" }));
 
