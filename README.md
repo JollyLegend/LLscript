@@ -42,6 +42,7 @@ Refresh the webpage after GitHub Pages finishes updating.
 
 The parser recognises:
 
+- Named `.SCENE` headings
 - `INT.` and `EXT.` scene headings
 - UPPERCASE character cues
 - Dialogue beneath character cues
@@ -65,8 +66,8 @@ The colours are defined near the top of `styles.css`:
 ## Included rehearsal features
 
 - Responsive phone layout
-- Sticky scene headings on mobile
-- Scene dropdown and desktop scene list
+- Compact sticky toolbar
+- Scene dropdown with previous/next controls
 - Leon-only or Jane-only line focus
 - Hide/show directions
 - Adjustable text size
