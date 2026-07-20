@@ -62,7 +62,7 @@ JANE
 "No one will enter while you are there." That is not the same as "you'll be alone."
 
 LEON
-You've read it so many times you've made it suspicious.
+You've read it so many times you've made it sound suspicious.
 
 JANE
 Somebody has to. Tell me the real reason we're doing this.
