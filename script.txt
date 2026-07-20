@@ -2,7 +2,7 @@ Title: LAKERS LODGE
 Credit: Written by
 Author: Ishaan Jolly
 Draft date: 21 July 2026
-Revision: Scene Rehearsal Script v10
+Revision: Scene Rehearsal Script v11
 
 .SCENE 01 — THE HOUSE GOES QUIET [MOVEMENT]
 
@@ -112,9 +112,15 @@ Most romantic thing you've ever said to me.
 
 Location: Exterior — End of the drive, Lakers Lodge, night.
 
-Leon and Jane get out of the car and walk towards the house.
+The Toyota stops at the end of the drive. Its headlights wash over the house.
 
-Headlights wash over the house. Every window is dark except the sitting-room window.
+Every window is dark except the sitting-room window.
+
+Leon gets out first. Jane remains beside the open passenger door for a moment, looking at the house.
+
+Then she closes the distance between them.
+
+Leon takes her bag without discussion, and they walk towards the front door.
 
 .SCENE 04 — CROSSING THE THRESHOLD [DIALOGUE]
 
@@ -144,7 +150,7 @@ A bright tiled corridor. Stairs ahead.
 
 Jane stops at the open downstairs WC.
 
-Above the sink, a mirror-shaped object is covered by fitted DARK FABRIC.
+Above the sink, a mirror-shaped object is hidden beneath a DARK COVERING.
 
 JANE
 They covered this one.
@@ -153,7 +159,7 @@ LEON
 Renovation.
 
 JANE
-Strange.
+That's odd.
 
 .SCENE 06 — THIRTEEN STEPS [DIALOGUE]
 
@@ -243,6 +249,8 @@ Opposite it, the FAMILY PORTRAIT.
 
 Four people and a small cream Pomeranian in a garden.
 
+Beyond the sitting room, the dark gym door stands slightly open.
+
 JANE
 There are a lot of mirrors in this house.
 
@@ -253,7 +261,7 @@ JANE
 Rich people have one. Maybe two. This is a house that wants to know where everything is at all times.
 
 LEON
-Imagine being this family. Imagine the dog having a better life than us. That dog has a financial advisor. That dog has opinions about its portfolio—
+Imagine being this family. Imagine the dog having a better life than us. That dog has a financial adviser. That dog has opinions about its portfolio—
 
 JANE
 Leon.
@@ -287,8 +295,7 @@ Leon crosses to her, hands finding her hips.
 LEON
 Every day since I met you.
 
-She lets her forehead fall against his chest — and stays
-there a beat longer than the joke requires. Listening.
+She lets her forehead fall against his chest — and stays there a beat longer than the joke requires. Listening.
 
 JANE
 Still the same.
@@ -341,13 +348,13 @@ JANE
 Hidden cameras. We're a reality show.
 
 LEON
-Don't worry, I look excellent on camera, I am an actor after all.
+Easy. Smoke detector, mirror, light fitting. We'll check everything. Although, for the record, I look excellent on camera. I'm an actor.
 
 JANE
 You've had two walk-ons and a student film.
 
 LEON
-A featured walkon. I had a line. “The briefcase is in the car.” It was very well received.
+A featured walk-on. I had a line. “The briefcase is in the car.” Very well received.
 
 JANE
 By who?
@@ -705,7 +712,13 @@ The dark gym beyond. The portrait.
 
 Location: Interior — Kitchen, continuous.
 
-The UTILITY ROOM door. LEON knocks. The utility door answers.
+The UTILITY ROOM door.
+
+Leon knocks.
+
+A beat.
+
+A matching KNOCK answers from the other side.
 
 JANE
 Pipes don't take turns.
@@ -748,13 +761,19 @@ Only then does her hand go to her throat.
 
 .SCENE 15 — THE CARRY [MOVEMENT]
 
-Location: Interior — Hallway, continuous.
+Location: Interior — Kitchen and hallway, continuous.
 
-Leon carries Jane at speed.
+Jane's knees give way.
 
-Passes the front door.
+Leon catches her before she hits the floor.
 
-Turns directly into the downstairs WC.
+She cannot speak. Her body fights for a breath that will not come.
+
+Leon lifts her and moves at speed through the hallway.
+
+He passes the front door without slowing.
+
+At the junction, he turns directly into the downstairs WC.
 
 He has not looked at the covered mirror yet.
 
@@ -762,9 +781,19 @@ He has not looked at the covered mirror yet.
 
 Location: Interior — Understairs WC, continuous.
 
-Not a kiss. Leon breathes for Jane.
+Leon lowers Jane onto the tiled floor and pulls the door nearly shut behind them.
+
+Her chest does not rise.
+
+He supports her head, opens her airway and breathes for her.
+
+Not a kiss.
 
 The DRONE skips one beat.
+
+Nothing.
+
+He breathes for her again.
 
 Jane drags in a rough breath of her own.
 
@@ -774,7 +803,9 @@ I’m— I’m okay—
 LEON
 You don’t have to be okay yet. You just have to breathe.
 
-Two people on the floor of the only room with no visible reflection.
+He stays on the floor with her until the next breath comes more easily.
+
+Two people in the only room with no visible reflection.
 
 Jane looks up at the covered mirror.
 
@@ -796,9 +827,7 @@ Location: Interior — Hallway and sitting room, moments later.
 
 They emerge holding hands.
 
-Leon takes the throw from the back of the sofa and moves towards the large mirror.
-
-The sitting-room mirror.
+Leon takes the throw from the back of the sofa and moves towards the large sitting-room mirror.
 
 JANE
 Stop. It's not the mirrors.
@@ -812,7 +841,13 @@ Anything that reflects us. We'd have to cover the house.
 LEON
 Then we just leave.
 
-Leon reaches the front door and turns the lock. The door does not budge.
+Leon reaches the front door and turns the lock.
+
+He pulls.
+
+Nothing.
+
+He braces a foot against the floor and tries again. The door does not move.
 
 In the black glass, Leon's reflection is already standing with its arm lowered.
 
@@ -827,9 +862,15 @@ It heard us.
 JANE
 Or it was waiting for us to understand.
 
-.SCENE 18 — THE FRONT DOOR [MOVEMENT]
+.SCENE 18 — THE OTHER SWITCH [MOVEMENT]
 
-Location: Interior — Front entryway, continuous.
+Location: Interior — Front entryway and staircase, continuous.
+
+Darkness swallows the entryway.
+
+Leon keeps one hand on Jane and feels along the wall with the other.
+
+A faint line of light from the sitting room catches the bottom step.
 
 LEON
 Two-way circuit. Hall light will have another switch upstairs.
@@ -837,22 +878,35 @@ Two-way circuit. Hall light will have another switch upstairs.
 JANE
 In the dark.
 
+Leon finds the banister.
+
 LEON
 Together.
+
+Their hands lock. They step onto the staircase.
 
 .SCENE 19 — FOURTEEN [MOVEMENT]
 
 Location: Interior — Staircase, continuous.
 
-Leon and Jane enter it and disappear from sight.
+Leon and Jane climb into the darkness, one hand joined between them and the other following the banister.
 
-LEON
-One... two... three... Four... five... six...
+They disappear from sight.
+
+LEON (O.S.)
+One... two... three... four... five... six...
 
 Hold the empty frame.
 
-LEON
-Ten... eleven... twelve... thirteen... Fourteen.
+Their footsteps continue overhead.
+
+LEON (O.S.)
+Ten... eleven... twelve... thirteen...
+
+A pause.
+
+LEON (O.S.)
+Fourteen.
 
 Warm light blooms down the stairwell.
 
@@ -862,15 +916,21 @@ Thirteen visible steps below them.
 
 Location: Interior — Upstairs landing, continuous.
 
-A narrow landing.
+A narrow landing. Closed doors on either side.
 
 The landing light switch is beside a BEDROOM DOOR.
 
-His fingers almost close around it.
+Leon reaches towards it without looking, as though he already knows where it is.
 
-He catches himself and redirects the same hand to the light switch.
+His fingers almost close around the bedroom handle instead.
 
-The light comes on.
+He catches himself.
+
+Jane watches him redirect the same hand to the light switch.
+
+The landing light comes on.
+
+Leon looks down the staircase.
 
 LEON
 Down.
@@ -881,15 +941,27 @@ Location: Interior — Staircase and hallway, continuous.
 
 They descend holding hands.
 
+Halfway down—
+
 A FLASH BLACKOUT.
 
-Her hand is still closed around the shape of his. Leon is gone.
+Jane reaches the bottom alone.
+
+Her fingers remain clenched around the shape of Leon's hand.
+
+She opens them.
+
+Nothing there.
+
+The staircase behind her is empty.
 
 .SCENE 22 — THE MIMIC [MOVEMENT]
 
 Location: Interior — Hallway, continuous.
 
-She draws breath to call his name --
+Jane turns towards the staircase.
+
+She draws breath to call his name—
 
 JANE'S VOICE (O.S.)
 (from the kitchen)
@@ -913,6 +985,8 @@ Are you okay?
 JANE'S VOICE (O.S.)
 I'm okay. Come here.
 
+Jane holds her ground.
+
 The distant Leon voice shifts location with the acoustics.
 
 LEON'S VOICE (O.S.)
@@ -921,20 +995,22 @@ Stay where you are.
 JANE'S VOICE (O.S.)
 I am. Just come to me.
 
-The Leon voice answers from elsewhere.
+The Leon voice answers from somewhere else again.
 
 LEON'S VOICE (O.S.)
 I'm coming.
 
-Stops herself. Her voice has already been taken.
+Jane stops herself from answering. Her voice has already been taken.
 
-Jane backs into the weak pool of sitting-room light.
+She backs into the weak pool of sitting-room light.
 
 The false voices fall silent.
 
-A human shape stops at the edge of the light.
+A human shape appears at the far end of the hallway and stops at the edge of the light.
 
-A heartbeat.
+Jane does not move towards it.
+
+A heartbeat, faint but fast.
 
 JANE
 You're pretending to be calm.
@@ -944,6 +1020,8 @@ Trying.
 
 JANE
 It's you.
+
+She pulls him fully into the light.
 
 LEON
 Your hands are freezing.
@@ -956,40 +1034,54 @@ Thank God.
 
 .SCENE 23 — THE DOG REMEMBERS [MOVEMENT]
 
-Location: Interior — Sitting room, minutes later.
+Location: Interior — Sitting room and gym, minutes later.
 
-Leon and Jane sit close on the sofa.
+Leon and Jane sit close on the sofa, knees touching, hands still joined.
 
-The portrait faces them.
+The family portrait faces them.
 
-From the gym: a faint DOG WHIMPER.
+From the dark gym: a faint DOG WHIMPER.
 
-A metal LATCH lifts in the dark gym.
+They both turn.
 
-The garden doors ease open under the wind.
+A metal LATCH lifts.
 
-Cold air enters the house.
+The garden doors ease open under the wind, revealing only darkness beyond them.
+
+Cold air pushes through the gym and into the sitting room.
+
+Leon is already moving before he appears to decide.
 
 LEON
 On the floor. Eyes shut.
 
+He brings Jane down behind the sofa.
+
 They press flat to the rug and close their eyes.
 
-Then a soft, wet CLICK. The sound a dog makes at a door it knows.
+Silence approaches from the gym.
 
-A tail wagging.
+Then a soft, wet CLICK—the sound a dog makes at a door it knows.
 
-Without speaking, they begin the shared breathing pattern from the WC floor.
+A cautious sniff near Leon's face.
+
+A tail brushes the floor once.
+
+Without speaking, Leon and Jane begin the shared breathing pattern from the WC.
+
+The sniffing stops.
 
 A thin, grief-shaped WHINE.
 
-The garden doors move in the wind.
+The presence withdraws towards the garden.
+
+The doors move in the wind.
 
 .SCENE 24 — THE PATTERN [DIALOGUE]
 
 Location: Interior — Sitting room and kitchen, continuous.
 
-A ROAR through the walls.
+A ROAR moves through the walls.
 
 JANE
 It keeps splitting us up.
@@ -1005,20 +1097,6 @@ It lost us.
 
 JANE
 Then we do it again.
-
-Jane looks towards the covered WC mirror, then back to Leon.
-
-JANE
-It can copy a face. It can copy a voice. It can move us.
-
-LEON
-But it keeps looking for two separate things.
-
-JANE
-And when it gets one signal --
-
-LEON
--- it can't find the line.
 
 The utility-room door SLAMS shut offscreen.
 
@@ -1036,7 +1114,13 @@ Out there it has the dark.
 JANE
 Only the dark.
 
+They move towards the gym together.
+
 As Leon crosses the kitchen doorway, he stops directly beneath the highest ELIAS height mark.
+
+For one beat, the mark and the top of his head align.
+
+Jane pulls him onward.
 
 .SCENE 25 — TUESDAY [DIALOGUE]
 
@@ -1065,7 +1149,7 @@ JANE
 Eleven consecutive weeks.
 
 LEON
-You keep records?
+You keep a record?
 
 JANE
 Of your failures, yes. Thursday your agent calls with nothing and you say, "Good, good, that's exciting," because you're too polite to people who waste your time.
@@ -1105,13 +1189,19 @@ They take one breath together.
 
 Location: Exterior — Back garden, continuous.
 
-A motion floodlight ignites. Hard white light.
+Leon and Jane step into the garden together.
 
-The wind. The drone.
+The doors swing shut behind them.
 
-His heartbeat is racing.
+A motion floodlight ignites—hard white light across wet grass.
 
-His breath remains controlled.
+The house becomes a wall of black windows.
+
+Wind moves through the garden. Beneath it, the DRONE searches for a steady note.
+
+Jane places one hand against Leon's chest. His heartbeat hammers beneath it.
+
+His breathing remains controlled.
 
 JANE
 (whisper)
@@ -1126,27 +1216,63 @@ Good. Stay with me.
 LEON
 I'm here.
 
-The drone rises, searching.
+They find the rhythm again.
 
-He gives her the next breath.
+One breath.
 
-Breath sequence, LEON and JANE are surrounded by footsteps and creepy noises closing in on them.
+Then another.
 
-An INHUMAN SHRIEK tears through the house, garden and ground at once.
+Footsteps begin beyond the floodlight. One set becomes several, circling through the dark grass.
 
-A heavy LOCK CLICKS.
+Jane's voice whispers from behind Leon.
+
+Leon’s voice answers from beside Jane.
+
+They do not turn.
+
+The footsteps close in.
+
+In the black windows of the house, their reflections appear in different rooms—separate, searching, never matching the bodies in the garden.
+
+Jane's breathing falters.
+
+Leon gives her the next breath.
+
+Their foreheads meet. Their hands remain over each other's hearts.
+
+The rhythm returns.
+
+In the windows, the reflections slide towards one another.
+
+They overlap.
+
+For an instant, the glass cannot decide which face belongs to which body.
+
+The DRONE strains upward and fractures.
+
+Every reflection in the house turns towards them at once.
+
+Leon and Jane hold the rhythm.
+
+An INHUMAN SHRIEK tears through the house, garden and ground.
+
+Every window goes black.
+
+Silence.
+
+From inside the house, a heavy LOCK CLICKS open.
 
 .SCENE 27 — THE TRUST [MOVEMENT]
 
-Location: Interior — Kitchen, dawn.
+Location: Interior — Kitchen and front entryway, dawn.
 
-Grey-gold morning light.
+Grey-gold morning light fills the house.
 
 The utility-room door is closed.
 
 On the kitchen counter, Jane's phone remains FACE-DOWN where she forced it during the attack.
 
-Jane's hand enters frame and picks it up.
+Jane picks it up.
 
 The screen wakes.
 
@@ -1157,12 +1283,53 @@ RELEASE NOTICE: £2,500,000
 CONDITION SATISFIED: VACANT POSSESSION CONFIRMED
 NAMED BENEFICIARY: ELIAS LAKER
 
-.SCENE 28 — ELIAS [MOVEMENT]
+At the far end of the hallway, Leon stands beside the open front door in clean morning light.
+
+He has not seen the screen.
+
+JANE
+Leon.
+
+He turns.
+
+Jane locks the phone and slips it into her pocket.
+
+Leon reaches for her.
+
+She takes his hand.
+
+Together, they cross the threshold.
+
+.SCENE 28 — LEAVING LAKERS LODGE [MOVEMENT]
+
+Location: Exterior — End of the drive, dawn.
+
+Leon puts the bags into the Toyota.
+
+Jane stops once and looks back at the house.
+
+The sitting-room window reflects only the pale morning sky.
+
+Leon opens the passenger door for her.
+
+She gets in.
+
+The Toyota pulls away and leaves the frame.
+
+Hold on Lakers Lodge.
+
+.SCENE 29 — ELIAS [MOVEMENT]
 
 Location: Interior — Sitting room, family portrait, dawn.
 
-The actual portrait.
+The actual family portrait.
 
-HOLD.
+Four people and a small cream Pomeranian in the garden.
+
+Hold long enough for the image to settle.
+
+Then our attention finds the older son: ELIAS.
+
+He has Leon's face.
 
 THE END
